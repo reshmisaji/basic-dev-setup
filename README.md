@@ -88,6 +88,12 @@ brew install node
 
 <br />
 
+## Watchman
+```
+brew install watchman
+```
+
+<br/>
 
 ## Yarn
 ```
